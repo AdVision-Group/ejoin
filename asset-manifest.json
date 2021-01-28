@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ejoin/static/css/main.088d2fa5.chunk.css",
+    "main.js": "/ejoin/static/js/main.d8219d3b.chunk.js",
+    "main.js.map": "/ejoin/static/js/main.d8219d3b.chunk.js.map",
+    "runtime-main.js": "/ejoin/static/js/runtime-main.310acac7.js",
+    "runtime-main.js.map": "/ejoin/static/js/runtime-main.310acac7.js.map",
+    "static/js/2.c0cd52ca.chunk.js": "/ejoin/static/js/2.c0cd52ca.chunk.js",
+    "static/js/2.c0cd52ca.chunk.js.map": "/ejoin/static/js/2.c0cd52ca.chunk.js.map",
+    "index.html": "/ejoin/index.html",
+    "static/css/main.088d2fa5.chunk.css.map": "/ejoin/static/css/main.088d2fa5.chunk.css.map",
+    "static/js/2.c0cd52ca.chunk.js.LICENSE.txt": "/ejoin/static/js/2.c0cd52ca.chunk.js.LICENSE.txt",
+    "static/media/car.bf32a412.png": "/ejoin/static/media/car.bf32a412.png",
+    "static/media/charger-1.061a98c0.png": "/ejoin/static/media/charger-1.061a98c0.png",
+    "static/media/charger-car-mountains-1.ad4caac3.png": "/ejoin/static/media/charger-car-mountains-1.ad4caac3.png",
+    "static/media/charger-car-mountains-2.473bad15.png": "/ejoin/static/media/charger-car-mountains-2.473bad15.png",
+    "static/media/font.css": "/ejoin/static/media/helvetica-regular.cc17bb5a.ttf",
+    "static/media/logo-white.07ec3912.png": "/ejoin/static/media/logo-white.07ec3912.png",
+    "static/media/logo.0f2779ea.png": "/ejoin/static/media/logo.0f2779ea.png",
+    "static/media/mountains.9b782d1a.png": "/ejoin/static/media/mountains.9b782d1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.310acac7.js",
+    "static/js/2.c0cd52ca.chunk.js",
+    "static/css/main.088d2fa5.chunk.css",
+    "static/js/main.d8219d3b.chunk.js"
+  ]
+}
