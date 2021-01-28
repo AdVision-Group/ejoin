@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ejoin/static/css/main.088d2fa5.chunk.css",
-    "main.js": "/ejoin/static/js/main.d8219d3b.chunk.js",
-    "main.js.map": "/ejoin/static/js/main.d8219d3b.chunk.js.map",
+    "main.js": "/ejoin/static/js/main.12e1c0c3.chunk.js",
+    "main.js.map": "/ejoin/static/js/main.12e1c0c3.chunk.js.map",
     "runtime-main.js": "/ejoin/static/js/runtime-main.310acac7.js",
     "runtime-main.js.map": "/ejoin/static/js/runtime-main.310acac7.js.map",
-    "static/js/2.c0cd52ca.chunk.js": "/ejoin/static/js/2.c0cd52ca.chunk.js",
-    "static/js/2.c0cd52ca.chunk.js.map": "/ejoin/static/js/2.c0cd52ca.chunk.js.map",
+    "static/js/2.2d456823.chunk.js": "/ejoin/static/js/2.2d456823.chunk.js",
+    "static/js/2.2d456823.chunk.js.map": "/ejoin/static/js/2.2d456823.chunk.js.map",
     "index.html": "/ejoin/index.html",
     "static/css/main.088d2fa5.chunk.css.map": "/ejoin/static/css/main.088d2fa5.chunk.css.map",
-    "static/js/2.c0cd52ca.chunk.js.LICENSE.txt": "/ejoin/static/js/2.c0cd52ca.chunk.js.LICENSE.txt",
+    "static/js/2.2d456823.chunk.js.LICENSE.txt": "/ejoin/static/js/2.2d456823.chunk.js.LICENSE.txt",
     "static/media/car.bf32a412.png": "/ejoin/static/media/car.bf32a412.png",
     "static/media/charger-1.061a98c0.png": "/ejoin/static/media/charger-1.061a98c0.png",
     "static/media/charger-car-mountains-1.ad4caac3.png": "/ejoin/static/media/charger-car-mountains-1.ad4caac3.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.310acac7.js",
-    "static/js/2.c0cd52ca.chunk.js",
+    "static/js/2.2d456823.chunk.js",
     "static/css/main.088d2fa5.chunk.css",
-    "static/js/main.d8219d3b.chunk.js"
+    "static/js/main.12e1c0c3.chunk.js"
   ]
 }
