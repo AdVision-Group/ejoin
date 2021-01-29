@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/ejoin/static/css/main.16f40ce8.chunk.css",
-    "main.js": "/ejoin/static/js/main.0c00eb6f.chunk.js",
-    "main.js.map": "/ejoin/static/js/main.0c00eb6f.chunk.js.map",
+    "main.css": "/ejoin/static/css/main.59538696.chunk.css",
+    "main.js": "/ejoin/static/js/main.2df9527d.chunk.js",
+    "main.js.map": "/ejoin/static/js/main.2df9527d.chunk.js.map",
     "runtime-main.js": "/ejoin/static/js/runtime-main.310acac7.js",
     "runtime-main.js.map": "/ejoin/static/js/runtime-main.310acac7.js.map",
     "static/js/2.6b4fb8c4.chunk.js": "/ejoin/static/js/2.6b4fb8c4.chunk.js",
     "static/js/2.6b4fb8c4.chunk.js.map": "/ejoin/static/js/2.6b4fb8c4.chunk.js.map",
     "index.html": "/ejoin/index.html",
-    "static/css/main.16f40ce8.chunk.css.map": "/ejoin/static/css/main.16f40ce8.chunk.css.map",
+    "static/css/main.59538696.chunk.css.map": "/ejoin/static/css/main.59538696.chunk.css.map",
     "static/js/2.6b4fb8c4.chunk.js.LICENSE.txt": "/ejoin/static/js/2.6b4fb8c4.chunk.js.LICENSE.txt",
     "static/media/car.bf32a412.png": "/ejoin/static/media/car.bf32a412.png",
     "static/media/charger-1.061a98c0.png": "/ejoin/static/media/charger-1.061a98c0.png",
+    "static/media/charger-bike-mountains-1.84edba55.png": "/ejoin/static/media/charger-bike-mountains-1.84edba55.png",
     "static/media/charger-car-mountains-1.ad4caac3.png": "/ejoin/static/media/charger-car-mountains-1.ad4caac3.png",
     "static/media/charger-car-mountains-2.473bad15.png": "/ejoin/static/media/charger-car-mountains-2.473bad15.png",
     "static/media/font.css": "/ejoin/static/media/helvetica-regular.cc17bb5a.ttf",
@@ -22,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.310acac7.js",
     "static/js/2.6b4fb8c4.chunk.js",
-    "static/css/main.16f40ce8.chunk.css",
-    "static/js/main.0c00eb6f.chunk.js"
+    "static/css/main.59538696.chunk.css",
+    "static/js/main.2df9527d.chunk.js"
   ]
 }
