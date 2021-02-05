@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ejoin/static/css/main.9b0e8849.chunk.css",
-    "main.js": "/ejoin/static/js/main.289326d8.chunk.js",
-    "main.js.map": "/ejoin/static/js/main.289326d8.chunk.js.map",
+    "main.js": "/ejoin/static/js/main.690e2185.chunk.js",
+    "main.js.map": "/ejoin/static/js/main.690e2185.chunk.js.map",
     "runtime-main.js": "/ejoin/static/js/runtime-main.310acac7.js",
     "runtime-main.js.map": "/ejoin/static/js/runtime-main.310acac7.js.map",
     "static/js/2.f79e5c1f.chunk.js": "/ejoin/static/js/2.f79e5c1f.chunk.js",
@@ -10,12 +10,14 @@
     "index.html": "/ejoin/index.html",
     "static/css/main.9b0e8849.chunk.css.map": "/ejoin/static/css/main.9b0e8849.chunk.css.map",
     "static/js/2.f79e5c1f.chunk.js.LICENSE.txt": "/ejoin/static/js/2.f79e5c1f.chunk.js.LICENSE.txt",
-    "static/media/business.6a29aaa2.png": "/ejoin/static/media/business.6a29aaa2.png",
+    "static/media/business.e4d9a3d9.png": "/ejoin/static/media/business.e4d9a3d9.png",
     "static/media/car.bf32a412.png": "/ejoin/static/media/car.bf32a412.png",
     "static/media/charger-1.061a98c0.png": "/ejoin/static/media/charger-1.061a98c0.png",
     "static/media/charger-bike-mountains-1.84edba55.png": "/ejoin/static/media/charger-bike-mountains-1.84edba55.png",
+    "static/media/charger-bike-mountains-2.066d2df1.png": "/ejoin/static/media/charger-bike-mountains-2.066d2df1.png",
     "static/media/charger-car-mountains-1.ad4caac3.png": "/ejoin/static/media/charger-car-mountains-1.ad4caac3.png",
     "static/media/charger-car-mountains-2.473bad15.png": "/ejoin/static/media/charger-car-mountains-2.473bad15.png",
+    "static/media/charger-car-mountains-3.223dcd8d.png": "/ejoin/static/media/charger-car-mountains-3.223dcd8d.png",
     "static/media/font.css": "/ejoin/static/media/helvetica-regular.cc17bb5a.ttf",
     "static/media/landing-car.01b7f637.png": "/ejoin/static/media/landing-car.01b7f637.png",
     "static/media/landing-mountains.139c0711.png": "/ejoin/static/media/landing-mountains.139c0711.png",
@@ -28,6 +30,6 @@
     "static/js/runtime-main.310acac7.js",
     "static/js/2.f79e5c1f.chunk.js",
     "static/css/main.9b0e8849.chunk.css",
-    "static/js/main.289326d8.chunk.js"
+    "static/js/main.690e2185.chunk.js"
   ]
 }
