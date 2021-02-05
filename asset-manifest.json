@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ejoin/static/css/main.e29a83e2.chunk.css",
-    "main.js": "/ejoin/static/js/main.319b520b.chunk.js",
-    "main.js.map": "/ejoin/static/js/main.319b520b.chunk.js.map",
+    "main.css": "/ejoin/static/css/main.9b0e8849.chunk.css",
+    "main.js": "/ejoin/static/js/main.289326d8.chunk.js",
+    "main.js.map": "/ejoin/static/js/main.289326d8.chunk.js.map",
     "runtime-main.js": "/ejoin/static/js/runtime-main.310acac7.js",
     "runtime-main.js.map": "/ejoin/static/js/runtime-main.310acac7.js.map",
     "static/js/2.f79e5c1f.chunk.js": "/ejoin/static/js/2.f79e5c1f.chunk.js",
     "static/js/2.f79e5c1f.chunk.js.map": "/ejoin/static/js/2.f79e5c1f.chunk.js.map",
     "index.html": "/ejoin/index.html",
-    "static/css/main.e29a83e2.chunk.css.map": "/ejoin/static/css/main.e29a83e2.chunk.css.map",
+    "static/css/main.9b0e8849.chunk.css.map": "/ejoin/static/css/main.9b0e8849.chunk.css.map",
     "static/js/2.f79e5c1f.chunk.js.LICENSE.txt": "/ejoin/static/js/2.f79e5c1f.chunk.js.LICENSE.txt",
+    "static/media/business.6a29aaa2.png": "/ejoin/static/media/business.6a29aaa2.png",
     "static/media/car.bf32a412.png": "/ejoin/static/media/car.bf32a412.png",
     "static/media/charger-1.061a98c0.png": "/ejoin/static/media/charger-1.061a98c0.png",
     "static/media/charger-bike-mountains-1.84edba55.png": "/ejoin/static/media/charger-bike-mountains-1.84edba55.png",
@@ -20,12 +21,13 @@
     "static/media/landing-mountains.139c0711.png": "/ejoin/static/media/landing-mountains.139c0711.png",
     "static/media/landing.5e776512.png": "/ejoin/static/media/landing.5e776512.png",
     "static/media/logo-white.07ec3912.png": "/ejoin/static/media/logo-white.07ec3912.png",
-    "static/media/logo.0f2779ea.png": "/ejoin/static/media/logo.0f2779ea.png"
+    "static/media/logo.0f2779ea.png": "/ejoin/static/media/logo.0f2779ea.png",
+    "static/media/nabijacky-1.0a2c4abd.png": "/ejoin/static/media/nabijacky-1.0a2c4abd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.310acac7.js",
     "static/js/2.f79e5c1f.chunk.js",
-    "static/css/main.e29a83e2.chunk.css",
-    "static/js/main.319b520b.chunk.js"
+    "static/css/main.9b0e8849.chunk.css",
+    "static/js/main.289326d8.chunk.js"
   ]
 }
